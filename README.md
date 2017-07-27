@@ -27,14 +27,14 @@ Below are some screenshots that show how it works
 
 - Demo of the `bamazonCustomer.js` file
   - Run `node bamazonCustomer.js` 
-  	  ![Customer Order](../images/runnode.png)
+  	  ![Customer](/images/runnode.PNG)
   - The customer is propted to select the ID of the item they want to purchase
-      ![Customer Order](/images/displayitems.png)
+      ![Item](/images/displayitems.PNG)
   - The customer is propted to enter the quantity of that item that they want to purchase
-      ![Customer Order](/images/quantity.png)
+      ![Quantity](/images/quantity.PNG)
   - The order is placed and the Quantity is reduced by the quantity of the order
-      ![Order Valid](/images/orderplaced.png)
+      ![Order](/images/orderplaced.PNG)
   - If the quantity ordered exceeds the available quantity, the order is not placed and customer is prompted to change order quantity or check back soon
-      ![Order Invalid](/images/outofstock.png)
+      ![OutofStock](/images/outofstock.PNG)
 
 
